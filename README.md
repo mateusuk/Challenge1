@@ -1,4 +1,4 @@
-# Modulo 1 Challenge Webpage
+# Module 1 Challenge Webpage
 
 ## Description
 
