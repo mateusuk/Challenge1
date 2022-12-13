@@ -2,7 +2,9 @@
 
 ## Description
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+This Project was created to improve the skills and knowledge obtained through the bootcamp, in this first challenge, an on-the-job ticket was proposed, which means that you will start with the initial code that you need to modify. some changes were made to make the code more semantic, the div elements were changed by header, figure, section, aside and footer, following an order, a title was added for the page, and comments were also added. to make the code clean and easy, a reduction was made in the number of lines of code, for this purpose repetitive code was reused. the code has been refactored. it Contains notes on HTML and CSS describing the changes.
+
+
 
 ## Installation
 
@@ -10,8 +12,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
-
+N/A
 ## Credits
 
 N/A
